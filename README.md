@@ -29,6 +29,7 @@ The Full MovieLens Dataset consisting of 26 million ratings and 750,000 tag appl
 ## Acknowledgements
 
 This dataset is an ensemble of data collected from TMDB and GroupLens.
+
 The Movie Details, Credits and Keywords have been collected from the TMDB Open API. This product uses the TMDb API but is not endorsed or certified by TMDb. Their API also provides access to data on many additional movies, actors and actresses, crew members, and TV shows. You can try it for yourself here https://www.themoviedb.org/documentation/api
 
 The Movie Links and Ratings have been obtained from the Official GroupLens website. The files are a part of the dataset available here https://grouplens.org/datasets/movielens/latest/
